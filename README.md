@@ -1,1 +1,1 @@
-Drag And Drop Flutter UI, Edit By Aulia Sabril, Reference: Flutter documentation
+Drag And Drop Flutter UI, Edit By Aulia Sabril, Untuk Pembelajaran Mahasiswa UNM
